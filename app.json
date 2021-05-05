@@ -1,0 +1,12 @@
+{
+  "name": "joinus1.4",
+  "displayName": "joinus1.4",
+  "expo": {
+    "name": "joinus1.4",
+    "slug": "joinus1.4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -18,4 +18,8 @@ target 'joinus14' do
   #     flipper_post_install(installer)
   #   end
   # end
+  pod 'react-native-image-base64', :path => '../node_modules/react-native-image-base64'
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
 end
